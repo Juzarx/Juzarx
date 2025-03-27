@@ -9,9 +9,9 @@ Soy estudiante de ingeniería es sistemas computacionales interesado en desarrol
 
 ⭐⭐⭐⭐⭐ Expert
 
-Java ⭐⭐
+Java ⭐
 
-C++ ⭐⭐
+C++ ⭐
 
 
 ## 🔗 Links
